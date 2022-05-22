@@ -16,6 +16,7 @@
         android:layout_marginBottom="65dp"
         android:backgroundTint="#1D9E22"
         android:text="@string/login"
+        android:onClick="dashboard"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button2"
         app:layout_constraintStart_toStartOf="parent"
@@ -31,6 +32,7 @@
         android:layout_marginEnd="86dp"
         android:backgroundTint="#DD2719"
         android:text="@string/cancel"
+        android:onClick="home"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.361"
         app:layout_constraintStart_toEndOf="@+id/button"
@@ -38,8 +40,8 @@
 
     <ImageButton
         android:id="@+id/imageButton"
-        android:layout_width="237dp"
-        android:layout_height="239dp"
+        android:layout_width="227dp"
+        android:layout_height="210dp"
         android:layout_marginStart="85dp"
         android:layout_marginTop="2dp"
         android:layout_marginEnd="53dp"

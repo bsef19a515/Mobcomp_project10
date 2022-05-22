@@ -5,6 +5,19 @@
     <string name="pwd">******</string>
     <string name="login">LOGIN</string>
     <string name="cancel">CANCEL</string>
+    <string name="wel">Welcome to Dashboard</string>
+    <string name="learn">Start Learning</string>
+    <string name="learnc">Learn C++</string>
+    <string name="learnj">Learn Java</string>
+    <string name="learnp">Learn Python</string>
+    <string name="learnhtml">Learn HTML</string>
+    <string name="learncsharp">Learn C#</string>
+    <string name="learnjs">Learn JS</string>
+    <string name="next">Next</string>
+
+
+
+
 
 
 </resources>
